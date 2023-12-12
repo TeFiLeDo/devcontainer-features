@@ -1,0 +1,15 @@
+{
+    "id": "sqlx",
+    "name": "SQLx cli",
+    "version": "0.1.0",
+    "options": {
+        "version": {
+            "type": "string",
+            "description": "The SQLx-cli version to install",
+            "proposals": [
+                "0.7.3"
+            ],
+            "default": "0.7.3"
+        }
+    }
+}
